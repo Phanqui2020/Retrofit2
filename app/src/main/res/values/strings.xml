@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Retrofit2</string>
+    <string name="button_delete">delete</string>
 </resources>
